@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderctringify",
+        "uuid": 16321275,
+        "checksum": "py6f1b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
